@@ -1,4 +1,5 @@
 {
+    "description" : "TodoList",
     "name": "pero_m/todolist",
     "license": "proprietary",
     "type": "project",
